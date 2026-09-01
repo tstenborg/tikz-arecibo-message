@@ -8,7 +8,7 @@ Rendering the Arecibo message with Ti*k*Z.
 
 <figure>
   <img src="assets/arecibo-message.png" alt="Arecibo message." width="340">
-  <figcaption>Figure 1. Ti<i>k</i>Z render of the interstellar Arecibo message. Adapted from Stenborg (2023), below.</figcaption>
+  <figcaption>Figure 1. Ti<i>k</i>Z render of the interstellar Arecibo message. Adapted from [<a href="#references">1</a>].</figcaption>
 </figure>
 
 ---
