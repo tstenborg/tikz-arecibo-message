@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "A TikZ rendering of the Arecibo message"
+message: "If you use this repository, please cite it using these metadata."
+type: software
+authors:
+  - given-names: Travis
+    family-names: Stenborg
+    orcid: "https://orcid.org/0000-0002-2693-9628"
+url: "https://github.com/tstenborg/tikz-arecibo-message"
+abstract: >-
+  "This repository holds digital resources associated with the article 'A \
+  Ti*k*Z rendering of the Arecibo message'. The Arecibo message was a \
+  historical radio transmission sent from the Arecibo Observatory into \
+  interstellar space. The message's data bits encode pictorial \
+  representations of the digits one to ten, DNA-related information, a human \
+  stick figure, the Solar System, physical structure of the Arecibo \
+  telescope, etc. The article discusses rendering the data bits in LaTeX \
+  documents, using the Ti*k*Z vector graphics language."
+keywords:
+  - astronomy
+  - latex
+  - tikz
+preferred-citation:
+  authors:
+    - given-names: Travis
+      family-names: Stenborg
+  doi: "10.47397/tb/44-3/tb138stenborg-arecibo"
+  end: 377 # Last page number.
+  issue: 3
+  journal: TUGboat
+  start: 375 # First page number.
+  title: "A TikZ rendering of the Arecibo message"
+  type: article
+  volume: 44
+  year: 2023
